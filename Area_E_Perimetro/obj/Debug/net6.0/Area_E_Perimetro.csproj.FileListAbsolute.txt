@@ -1,0 +1,15 @@
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\bin\Debug\net6.0\Area_E_Perimetro.exe
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\bin\Debug\net6.0\Area_E_Perimetro.deps.json
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\bin\Debug\net6.0\Area_E_Perimetro.runtimeconfig.json
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\bin\Debug\net6.0\Area_E_Perimetro.dll
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\bin\Debug\net6.0\Area_E_Perimetro.pdb
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\obj\Debug\net6.0\Area_E_Perimetro.csproj.AssemblyReference.cache
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\obj\Debug\net6.0\Area_E_Perimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\obj\Debug\net6.0\Area_E_Perimetro.AssemblyInfoInputs.cache
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\obj\Debug\net6.0\Area_E_Perimetro.AssemblyInfo.cs
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\obj\Debug\net6.0\Area_E_Perimetro.csproj.CoreCompileInputs.cache
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\obj\Debug\net6.0\Area_E_Perimetro.dll
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\obj\Debug\net6.0\refint\Area_E_Perimetro.dll
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\obj\Debug\net6.0\Area_E_Perimetro.pdb
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\obj\Debug\net6.0\Area_E_Perimetro.genruntimeconfig.cache
+C:\Users\macac\Desktop\Jessica\Programação\Projetos\Calcula_Area_E_Perimetro\Area_E_Perimetro\Area_E_Perimetro\obj\Debug\net6.0\ref\Area_E_Perimetro.dll
