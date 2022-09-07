@@ -1,1 +1,1 @@
-# Area_e_Perimetro
+Programa para cálculo de área e perimetro de figuras planas.
